@@ -12,6 +12,7 @@ const Products = (props) => {
           description='This is a first product - amazing!'
         />
       </ul>
+      
     </section>
   );
 };
